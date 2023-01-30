@@ -1,5 +1,3 @@
-# Shoe Store
-
 ## Introduction
 
-Shoe store app using React Router and TypeScript.
+Shoe store app using React Router TypeScript and Redux.
